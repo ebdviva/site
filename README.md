@@ -1,4 +1,4 @@
-# **Escola Dominical que Alcança VIDAS**
+# **EBD Viva - Escola Dominical que Alcança VIDAS**
 
 Bem-vindo ao repositório do projeto **"Escola Dominical que Alcança VIDAS"**. Este projeto tem como objetivo fornecer uma base estratégica, materiais de apoio e recursos práticos para o fortalecimento e crescimento da Escola Dominical na igreja local.  
 

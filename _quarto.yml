@@ -1,12 +1,13 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Works"
+  title: "EBD Viva"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Início
       - about.qmd
 
 format:
