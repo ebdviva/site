@@ -87,17 +87,18 @@ profile:
   group: 
     - [prerelease,rc]
 
-include-after-body: 
-    - text: |
-        <script type="text/javascript">
-        var refTagger = {settings: {bibleVersion: 'bb-sbb-ntlh'}}; 
-
-        (function(d, t) {
-            var n=d.querySelector('[nonce]');
-            refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-            var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-            g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-            g.nonce = refTagger.settings.nonce;
-            s.parentNode.insertBefore(g, s);
-        }(document, 'script'));
-        </script>
+# Para inserir links para o texto bíblico do Logos
+# include-after-body: 
+#    - text: |
+#        <script type="text/javascript">
+#        var refTagger = {settings: {bibleVersion: 'bb-sbb-ntlh'}}; 
+#
+#        (function(d, t) {
+#            var n=d.querySelector('[nonce]');
+#            refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+#            var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+#            g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+#            g.nonce = refTagger.settings.nonce;
+#            s.parentNode.insertBefore(g, s);
+#        }(document, 'script'));
+#        </script>
