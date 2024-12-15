@@ -4,17 +4,100 @@ project:
 
 website:
   title: "EBD Viva"
+  # image: 
+  # favicon: 
+  open-graph: true
+  twitter-card: false
+  site-url: "https://ebdviva.github.io/site/"
+  page-navigation: true
+  
   navbar:
+    background: light
+    # logo: 
+    # logo-alt: "Logo EBD Viva"
+    title: false
+    collapse-below: lg
+    
     left:
-      - href: index.qmd
-        text: Início
-      - about.qmd
+      - text: Início
+        href: index.qmd
+      - text: Sobre
+        href: about.qmd
+      - text: "Ajuda"
+        menu:
+          - text: "Perguntas frequentes"
+            icon: "question-circle"
+            href: paginas/faq/faq.qmd
+          - text: "Envie-nos um e-mail"
+            icon: "envelope"
+            href: "mailto://ebdviva@outlook.com"
+  
+    tools:
+      - icon: instagram
+        # href: https://www.instagram.com/ebd.viva
+        text: Instagram EBD Viva
+
+  sidebar:
+    - id: navegação
+      title: "Navegação"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: "Apresentação"
+          href: index.qmd
+        - text: "Equipe"
+          href: equipe.qmd
+        - section: "Turmas"  
+          contents:
+            - text: "Adultos"
+              href: paginas/turmas/adultos/adultos.qmd
+            - text: "Jovens"
+              href: paginas/turmas/jovens/jovens.qmd
+            - text: "Adolescentes"
+              href: paginas/turmas/adolescentes/adolescentes.qmd
+            - text: "Crianças"
+              href: paginas/turmas/criancas/criancas.qmd
+
+      
+# bibliography: pages/publicações/bibliografia-lanal.json
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
     toc: true
+    theme:
+      light: [cosmo, theme.scss]
+    code-copy: true
+    code-overflow: wrap
+    css: styles.css
+    include-after-body: js.html
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 350px
 
+filters:
+  - filters/tools-tabset.lua
 
+freeze: true
 
+editor: visual
+
+profile:
+  group: 
+    - [prerelease,rc]
+
+include-after-body: 
+    - text: |
+        <script type="text/javascript">
+        var refTagger = {settings: {bibleVersion: 'bb-sbb-ntlh'}}; 
+
+        (function(d, t) {
+            var n=d.querySelector('[nonce]');
+            refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+            var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+            g.src = 'RefTagger.js';
+            g.nonce = refTagger.settings.nonce;
+            s.parentNode.insertBefore(g, s);
+        }(document, 'script'));
+        </script>
