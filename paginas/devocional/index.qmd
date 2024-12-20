@@ -1,7 +1,5 @@
 ---
-title: "Como viver no mundo à luz da Bíblia"
-subtitle: Adolescentes
-author: EBD Viva
+title: "Devocional"
 lang: pt-br
 date: last-modified
 date-format: DD/MM/YYYY
@@ -9,17 +7,17 @@ listing:
     contents:
         - "*.qmd"
     type: default
-    fields: [title, categories, date, author, description]
+    fields: [title, categories, data, author, description]
     exclude:
         status: futura
     filter-ui: true
     sort-ui: true
     sort: "date desc"
     field-display-names:
-        title: "Tema"
-        date: "Data"
+        title: "Título"
+        data: "Data"
         image: "Foto"
-        description: "Verdade Prática"
+        description: "Referência"
     categories: true
     # image-placeholder: img/t125.jpg
     image-align: left

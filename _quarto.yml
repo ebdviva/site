@@ -4,8 +4,8 @@ project:
 
 website:
   title: "EBD Viva"
-  # image: 
-  # favicon: 
+  image: logo-sem-fundo.png
+  favicon: logo-sem-fundo.png
   open-graph: true
   twitter-card: false
   site-url: "https://ebdviva.github.io/site/"
@@ -13,42 +13,47 @@ website:
   
   navbar:
     background: light
-    # logo: 
-    # logo-alt: "Logo EBD Viva"
+    logo: logo-sem-fundo.png
+    logo-alt: "Logo EBD Viva"
     title: false
     collapse-below: lg
-    
     left:
-      - text: Início
+      - text: EBD Viva
         href: index.qmd
-      - text: Sobre
-        href: about.qmd
+      - text: Turmas
+        href: paginas/turmas/turmas.qmd
       - text: "Ajuda"
         menu:
-          - text: "Perguntas frequentes"
-            icon: "question-circle"
-            href: paginas/faq/faq.qmd
+          # - text: "Perguntas frequentes"
+            # icon: "question-circle"
+            # href: paginas/faq/faq.qmd
           - text: "Envie-nos um e-mail"
             icon: "envelope"
             href: "mailto://ebdviva@outlook.com"
   
     tools:
       - icon: instagram
-        # href: https://www.instagram.com/ebd.viva
+        href: https://www.instagram.com/ebd.viva
         text: Instagram EBD Viva
 
   sidebar:
-    - id: navegação
-      title: "Navegação"
+    - id: ebd-viva
+      title: "EBD Viva"
       style: "floating"
       collapse-level: 2
       align: left
       contents:
-        - text: "Apresentação"
+        - text: "EBD Viva"
           href: index.qmd
-        - text: "Equipe"
-          href: equipe.qmd
-        - section: "Turmas"  
+
+    - id: turmas
+      title: "Turmas"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: "Materiais"
+          href: paginas/turmas/turmas.qmd
           contents:
             - text: "Adultos"
               href: paginas/turmas/adultos/adultos.qmd
@@ -56,11 +61,19 @@ website:
               href: paginas/turmas/jovens/jovens.qmd
             - text: "Adolescentes"
               href: paginas/turmas/adolescentes/adolescentes.qmd
-            - text: "Crianças"
-              href: paginas/turmas/criancas/criancas.qmd
+            # - text: "Crianças"
+              # href: paginas/turmas/criancas/criancas.qmd
 
-      
-# bibliography: pages/publicações/bibliografia-lanal.json
+    # - id: faq
+      # title: "Perguntas Frequentes"
+      # style: floating
+      # collapse-level: 2
+      # align: left
+      # contents: 
+        # - text: "Perguntas Frequentes"
+          # href: paginas/faq/faq.qmd
+
+  # bibliography: pages/publicações/bibliografia-lanal.json
 
 format:
   html:

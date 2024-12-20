@@ -1,7 +1,70 @@
 ---
-title: "EBD Viva"
+title: "EBD Viva - Escola Dominical que Alcança Vidas"
+lang: pt-br
+date-format: DD/MM/YYYY
 ---
 
-This is a Quarto website.
+### **Bem-vindo à EBD Viva!**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Transformando vidas e construindo um futuro com base na Palavra de Deus.**
+
+A **EBD Viva** é um projeto comprometido com o fortalecimento espiritual e o crescimento da igreja através da Escola Bíblica Dominical. Nosso objetivo é alcançar VIDAS para Cristo, proporcionando um ensino bíblico relevante, dinâmico e transformador para todas as idades.
+
+### **Por que EBD Viva?**
+
+-    **Viva na Visão**: Planejamos estratégias focadas no crescimento espiritual e no discipulado.
+
+-    **Viva na Ação**: Promovemos a integração de novos membros e o fortalecimento dos laços comunitários.
+
+-    **Viva no Propósito**: Inspiramos crianças, jovens, adultos e famílias a viverem uma fé prática e genuína.
+
+Com base no lema **"Escola Dominical que Alcança VIDAS"**, desenvolvemos recursos, treinamentos e estratégias para fazer da Escola Bíblica Dominical um instrumento eficaz na transformação espiritual e social.
+
+### **Nossos Pilares: O Acróstico VIDAS**
+
+1.  **Visão de Crescimento**
+    Planejamento e metas claras para alcançar pessoas e discipular com excelência.
+
+2.  **Integração Estratégica**
+    Acolhimento de novos membros e fortalecimento das relações dentro da comunidade cristã.
+
+3.  **Discípulos em Ação**
+    Formação de discípulos comprometidos com a vivência prática do Evangelho.
+
+5.  **Aperfeiçoamento Contínuo**
+    Capacitação de professores e líderes para um ensino eficaz e relevante.
+
+6.  **Serviço Cristão**
+    Mobilização da igreja para o serviço, demonstrando o amor de Cristo na prática.
+
+### **Participe Conosco!**
+
+A **EBD Viva** é para todos: líderes, professores, alunos e qualquer pessoa interessada em transformar vidas por meio do ensino bíblico. 
+
+Explore nossos recursos, participe dos treinamentos e envolva-se nos projetos.
+
+#### **Como fazer parte:**
+
+-   **Envolva-se:** Descubra maneiras práticas de aplicar o ensino bíblico em sua vida e comunidade.
+
+-   **Contribua:** Compartilhe ideias, testemunhos e materiais que edifiquem outros irmãos.
+
+-   **Cresça:** Aproveite nossos conteúdos exclusivos para fortalecer sua fé.
+
+### **Acompanhe Nossos Projetos**
+
+Fique por dentro das novidades!\
+✅ Cursos e treinamentos\
+✅ Materiais didáticos\
+✅ Campanhas de evangelismo\
+✅ Programações para a igreja\
+
+### **Entre em Contato**
+
+Quer saber mais? Estamos à disposição para responder suas dúvidas, ouvir suas sugestões e caminhar com você!
+
+📧 **Email:** [ebdviva@outlook.com](mailto:ebdviva@outlook.com)\
+🌐 **Site:** [site](https://ebdviva.github.io/site/)\
+📱 **Redes Sociais:** \@ebd.viva
+
+**EBD Viva - Transformando vidas com a Palavra de Deus.**

@@ -1,7 +1,7 @@
 ---
 title: "Em defesa da fé cristã"
 subtitle: Adultos
-author: Tiago Dias
+author: EBD Viva
 lang: pt-br
 date: last-modified
 date-format: DD/MM/YYYY

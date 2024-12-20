@@ -1,3 +1,26 @@
 ---
-title: "Jovens"
+title: "Alcance um futuro feliz e seguro"
+subtitle: Jovens
+author: EBD Viva
+lang: pt-br
+date: last-modified
+date-format: DD/MM/YYYY
+listing:
+    contents:
+        - "*.qmd"
+    type: default
+    fields: [title, categories, data, author, description]
+    exclude:
+        status: futura
+    filter-ui: true
+    sort-ui: true
+    sort: "date desc"
+    field-display-names:
+        title: "Tema"
+        data: "Data"
+        image: "Foto"
+        description: "Verdade Prática"
+    categories: true
+    # image-placeholder: img/t125.jpg
+    image-align: left
 ---

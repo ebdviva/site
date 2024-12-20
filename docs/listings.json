@@ -7,10 +7,22 @@
     ]
   },
   {
+    "listing": "/paginas/devocional/index.html",
+    "items": [
+      "/paginas/devocional/2024-12.html"
+    ]
+  },
+  {
     "listing": "/paginas/turmas/adolescentes/adolescentes.html",
     "items": [
       "/paginas/turmas/adolescentes/24411tn.html",
       "/paginas/turmas/adolescentes/24410tn.html"
+    ]
+  },
+  {
+    "listing": "/paginas/turmas/jovens/jovens.html",
+    "items": [
+      "/paginas/turmas/jovens/24411jv.html"
     ]
   }
 ]
