@@ -1,9 +1,16 @@
 [
   {
-    "listing": "/paginas/turmas/adultos/adultos.html",
+    "listing": "/paginas/turmas/jovens/index.html",
     "items": [
-      "/paginas/turmas/adultos/25t102.html",
-      "/paginas/turmas/adultos/25t101.html"
+      "/paginas/turmas/jovens/posts/2024-12-22-protecao-contra-os-vicios/index.html",
+      "/paginas/turmas/jovens/posts/2024-12-15-protecao-contra-a-inveja/index.html"
+    ]
+  },
+  {
+    "listing": "/paginas/turmas/adolescentes/index.html",
+    "items": [
+      "/paginas/turmas/adolescentes/posts/2024-12-14-honrando-o-criador-cuidando-da-criacao/index.html",
+      "/paginas/turmas/adolescentes/posts/2024-12-07-igreja-lugar-de-todos-os-filhos-de-deus/index.html"
     ]
   },
   {
@@ -13,16 +20,10 @@
     ]
   },
   {
-    "listing": "/paginas/turmas/adolescentes/adolescentes.html",
+    "listing": "/paginas/turmas/adultos/index.html",
     "items": [
-      "/paginas/turmas/adolescentes/24411tn.html",
-      "/paginas/turmas/adolescentes/24410tn.html"
-    ]
-  },
-  {
-    "listing": "/paginas/turmas/jovens/jovens.html",
-    "items": [
-      "/paginas/turmas/jovens/24411jv.html"
+      "/paginas/turmas/adultos/posts/2025-01-12-somos-cristaos/index.html",
+      "/paginas/turmas/adultos/posts/2025-01-05-quando-as-heresias-ameacam-a-unidade-da-igreja/index.html"
     ]
   }
 ]

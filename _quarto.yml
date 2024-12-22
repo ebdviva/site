@@ -4,8 +4,8 @@ project:
 
 website:
   title: "EBD Viva"
-  image: logo-sem-fundo.png
-  favicon: logo-sem-fundo.png
+  image: logo-ebd-viva.png
+  favicon: logo-ebd-viva.png
   open-graph: true
   twitter-card: false
   site-url: "https://ebdviva.github.io/site/"
@@ -13,7 +13,7 @@ website:
   
   navbar:
     background: light
-    logo: logo-sem-fundo.png
+    logo: logo-ebd-viva.png
     logo-alt: "Logo EBD Viva"
     title: false
     collapse-below: lg
@@ -21,7 +21,7 @@ website:
       - text: EBD Viva
         href: index.qmd
       - text: Turmas
-        href: paginas/turmas/turmas.qmd
+        href: paginas/turmas/index.qmd
       - text: "Ajuda"
         menu:
           # - text: "Perguntas frequentes"
@@ -45,6 +45,13 @@ website:
       contents:
         - text: "EBD Viva"
           href: index.qmd
+          contents: 
+            - text: "Visão de crescimento"
+              href: paginas/vidas/visao-de-crescimento.qmd
+            - text: "Integração estratégica"
+              href: paginas/vidas/integracao-estrategica.qmd
+            - text: "Discípulos em ação"
+              href: paginas/vidas/discipulos-em-acao.qmd
 
     - id: turmas
       title: "Turmas"
@@ -53,16 +60,16 @@ website:
       align: left
       contents:
         - text: "Materiais"
-          href: paginas/turmas/turmas.qmd
+          href: paginas/turmas/index.qmd
           contents:
             - text: "Adultos"
-              href: paginas/turmas/adultos/adultos.qmd
+              href: paginas/turmas/adultos/index.qmd
             - text: "Jovens"
-              href: paginas/turmas/jovens/jovens.qmd
+              href: paginas/turmas/jovens/index.qmd
             - text: "Adolescentes"
-              href: paginas/turmas/adolescentes/adolescentes.qmd
+              href: paginas/turmas/adolescentes/index.qmd
             # - text: "Crianças"
-              # href: paginas/turmas/criancas/criancas.qmd
+              # href: paginas/turmas/criancas/index.qmd
 
     # - id: faq
       # title: "Perguntas Frequentes"

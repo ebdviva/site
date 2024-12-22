@@ -1,0 +1,27 @@
+---
+title: "Lições Bíblicas"
+subtitle: Adultos
+author-meta: EBD Viva
+lang: pt-br
+date-meta: last-modified
+date-format: DD/MM/YYYY
+listing:
+    contents: 
+        "posts/*/index.qmd"
+    fields: [title, categories, date, author, description]
+    exclude:
+        status: futura
+    filter-ui: false
+    sort-ui: false
+    sort: "date desc"
+    field-display-names:
+        title: "Tema"
+        data: "Data"
+        image: "Foto"
+        description: "Verdade Prática"
+    categories: true
+    feed: true
+    # image-placeholder: img/---.jpg
+    image-align: left
+search: false
+---
