@@ -1,7 +1,7 @@
 ---
 title: Proteção contra os vícios
 subtitle: "Lição 12"
-status: atual
+status: arquivada
 description: "O autodomínio é uma virtude indispensável para a superação de um vício"
 categories: 
     - Vícios

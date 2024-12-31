@@ -1,0 +1,11 @@
+{
+  "hash": "0e66329e0825d7a6b71cb1da968e8355",
+  "result": {
+    "markdown": "---\ntitle: Quando as heresias ameaçam a unidade da igreja\nsubtitle: \"Lição 1\"\nstatus: atual\ndata: 05/01/2025\ndescription: \"Heresias são crenças e práticas contrárias ao pensamento bíblico que distorcem os pontos principais da doutrina bíblica\"\n# image: img/t125.jpg\ncategories: \n    - Heresias\nauthor: Esequias Soares\ndate: 2025-01-05\ndate-format: DD/MM/YYYY\nlang: pt-br\n---\n\n```{html}\nhttps://www.canva.com/design/DAGaxItGggg/ZzLk7MCvHjcnL-BDL4U26A/view\n```\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

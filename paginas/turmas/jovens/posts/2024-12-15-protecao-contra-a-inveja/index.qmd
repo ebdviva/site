@@ -1,7 +1,7 @@
 ---
 title: Proteção contra a inveja
 subtitle: "Lição 11"
-status: concluída
+status: arquivada
 description: "O jovem cristão não pode deixar se dominar pela inveja, mas deve ser dominado pela sabedoria da Palavra de Deus"
 # image: img/t125.jpg
 categories: 

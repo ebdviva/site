@@ -1,0 +1,154 @@
+---
+title: Um convite à autenticidade
+subtitle: "Lição 1"
+status: atual
+description: "A autenticidade da fé cristã é a chave para uma vida plena em Deus"
+categories: 
+    - Autenticidade
+author: Eduardo Leandro
+date: 2025-01-05
+date-format: DD/MM/YYYY
+lang: pt-br
+---
+
+## Resumo da Lição
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGa0gAc-o4/rj7mZGBgD7I7ubz09cZMqA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+## Referências bíblicas
+
+### Texto principal
+
+::: {.callout}
+## Salmos 51.6
+Sei também que tens prazer na fidelidade em secreto;
+e no mais íntimo me ensinas a sabedoria.
+:::
+
+### Leitura semanal
+
+::: {.callout}
+## Provérbios 12.22
+O Senhor detesta os lábios mentirosos,
+mas os que agem com lealdade lhe agradam.
+:::
+
+::: {.callout}
+## 1 Samuel 16.7
+O Senhor, contudo, disse a Samuel:
+― Não considere a sua aparência nem a sua altura, pois eu o rejeitei. O Senhor não vê como o homem: o homem vê a aparência, mas o Senhor vê o coração.
+:::
+
+::: {.callout}
+## João 4.24
+Deus é espírito, e é necessário que os seus adoradores o adorem em espírito e em verdade.
+:::
+
+::: {.callout}
+## Mateus 5.8
+Bem-aventurados os pacificadores,
+pois serão chamados filhos de Deus.
+:::
+
+::: {.callout}
+## Romanos 12.9-10
+O amor deve ser sincero. Odeiem o que é mau; apeguem‑se ao que é bom. Dediquem‑se uns aos outros com amor fraternal, preferindo dar honra aos outros mais do que a vocês.
+:::
+
+::: {.callout}
+## Efésios 4.25
+Portanto, cada um de vocês deve abandonar a mentira e falar a verdade uns aos outros, pois todos nós somos membros de um mesmo corpo.
+:::
+
+### Leitura em classe
+
+::: {.callout}
+## Tiago 1.1-4
+Tiago, servo de Deus e do Senhor Jesus Cristo, Às doze tribos dispersas entre as nações: Saudações. Meus irmãos, considerem motivo de grande alegria o fato de passarem por diversas provações; assim, vocês saberão que a prova da sua fé produz perseverança. No entanto, a perseverança deve ter ação completa, a fim de que vocês sejam perfeitos e íntegros, sem que lhes falte coisa alguma.
+:::
+
+### Leituras complementares
+
+::: {.callout}
+## Mateus 13.55
+Não é este o filho do carpinteiro? A sua mãe não se chama Maria, e os seus irmãos não são Tiago, José, Simão e Judas?
+:::
+
+::: {.callout}
+## João 7.5
+Os seus irmãos disseram isso porque não criam nele.
+:::
+
+::: {.callout}
+## 1 Coríntios 15.7
+Em seguida, apareceu a Tiago e, então, a todos os apóstolos
+:::
+
+::: {.callout}
+## Atos 12.17
+Ele, porém, fazendo sinal com a mão para que se calassem, descreveu como o Senhor o havia tirado da prisão e disse:
+― Contem isso a Tiago e aos irmãos.
+Então, saiu e foi para outro lugar.
+:::
+
+::: {.callout}
+## Atos 15.13
+Quando terminaram de falar, Tiago tomou a palavra e disse:
+― Irmãos, ouçam‑me.
+:::
+
+::: {.callout}
+## Atos 21.18
+No dia seguinte, Paulo foi conosco encontrar‑se com Tiago, e todos os presbíteros estavam presentes.
+:::
+
+::: {.callout}
+## Tiago 2.26
+Portanto, como o corpo sem espírito está morto, assim a fé sem obras está morta.
+:::
+
+::: {.callout}
+## Tiago 1.19-27
+19. Meus amados irmãos, tenham isto em mente: sejam todos prontos para ouvir, tardios para falar e tardios para irar‑se,
+20. pois a ira do homem não produz a justiça de Deus. 
+21. Portanto, livrem‑se de toda impureza moral e da maldade que prevalece e aceitem humildemente a palavra implantada em vocês, a qual é poderosa para salvar a vida de vocês.
+22. Sejam praticantes da palavra, não apenas ouvintes, enganando a vocês mesmos. 
+23. Aquele que ouve a palavra, mas não a põe em prática, é semelhante a um homem que se vê no espelho,
+24. mas, depois de olhar para si mesmo, sai e se esquece da sua aparência
+25. Contudo, o homem que observa atentamente a perfeita lei da liberdade, e persevera na prática dessa lei, não se esquecendo do que ouviu, mas praticando‑o, será bem-aventurado naquilo que fizer.
+26. Se alguém se considera religioso, mas não refreia a língua, engana a si mesmo. A sua religião não tem valor algum!
+27. A religião que Deus, o nosso Pai, aceita como pura e imaculada é esta: cuidar dos órfãos e das viúvas nas suas aflições e não se deixar corromper pelo mundo.
+:::
+
+::: {.callout}
+## Tiago 3.1-12
+1. Meus irmãos, não sejam muitos de vocês mestres, pois, como sabem, nós, os que ensinamos, seremos julgados com maior rigor.
+2. Pois todos tropeçamos de muitas maneiras. Se alguém não tropeça no falar, tal homem é perfeito, capaz de dominar também todo o corpo.
+3. Quando colocamos freios na boca dos cavalos para que eles nos obedeçam, podemos controlar o animal todo.
+4. Tomem também como exemplo os navios; embora sejam tão grandes e impelidos por fortes ventos, são dirigidos por um leme muito pequeno, conforme a vontade do piloto.
+5. Semelhantemente, a língua é um pequeno órgão do corpo, mas se vangloria de grandes coisas. Vejam como um grande bosque é incendiado por uma simples fagulha.
+6. Assim também, a língua é um fogo; é um mundo de iniquidade. Colocada entre os membros do nosso corpo, contamina a pessoa por inteiro, incendeia todo o curso da sua vida, sendo ela mesma incendiada pelo inferno.
+7. A espécie humana doma e tem domado toda espécie de animais, aves, répteis e criaturas do mar,
+8. mas ninguém consegue domar a língua. É um mal incontrolável, cheio de veneno mortífero.
+9. Com a língua bendizemos ao Senhor e Pai e com ela amaldiçoamos os homens, feitos à semelhança de Deus.
+10. Da mesma boca procedem bênção e maldição. Meus irmãos, isso não está certo!
+11. Acaso podem brotar da mesma fonte água doce e água amarga?
+12. Meus irmãos, pode uma figueira produzir azeitonas, ou uma videira, figos? Da mesma forma, uma fonte de água salgada não pode produzir água doce.
+:::
+
+::: {.callout}
+## Tiago 5.13-18
+13. Há alguém sofrendo entre vocês? Que ele ore. Há alguém que se sente feliz? Que ele cante louvores.
+14. Há alguém doente entre vocês? Que ele mande chamar os presbíteros da igreja, e que estes orem por ele, ungindo‑o com óleo, em nome do Senhor.
+15. A oração feita com fé curará o doente, e o Senhor o levantará. Além disso, se houver cometido pecados, ele será perdoado.
+16. Portanto, confessem os seus pecados uns aos outros e orem uns pelos outros para serem curados. A oração de um justo é poderosa e eficaz.
+17. Elias era humano como nós. Ele orou fervorosamente para que não chovesse, e não choveu sobre a terra durante três anos e meio.
+18. Depois, orou novamente, e os céus enviaram chuva, e a terra produziu os seus frutos.
+:::
+

@@ -1,7 +1,7 @@
 ---
 title: Igreja, lugar de todos os filhos de Deus
 subtitle: "Lição 10"
-status: concluída
+status: arquivada
 description: "Nisto não há judeu nem grego; não há servo nem livre; não há macho nem fêmea; porque todos vós sois um em Cristo Jesus (Gálatas 3.28)"
 # image: img/t125.jpg
 categories: 

@@ -1,16 +1,8 @@
 [
   {
-    "listing": "/paginas/turmas/jovens/index.html",
+    "listing": "/paginas/turmas/adultos/index.html",
     "items": [
-      "/paginas/turmas/jovens/posts/2024-12-22-protecao-contra-os-vicios/index.html",
-      "/paginas/turmas/jovens/posts/2024-12-15-protecao-contra-a-inveja/index.html"
-    ]
-  },
-  {
-    "listing": "/paginas/turmas/adolescentes/index.html",
-    "items": [
-      "/paginas/turmas/adolescentes/posts/2024-12-14-honrando-o-criador-cuidando-da-criacao/index.html",
-      "/paginas/turmas/adolescentes/posts/2024-12-07-igreja-lugar-de-todos-os-filhos-de-deus/index.html"
+      "/paginas/turmas/adultos/posts/2025-01-05-quando-as-heresias-ameacam-a-unidade-da-igreja/index.html"
     ]
   },
   {
@@ -20,10 +12,13 @@
     ]
   },
   {
-    "listing": "/paginas/turmas/adultos/index.html",
+    "listing": "/paginas/turmas/adolescentes/index.html",
+    "items": []
+  },
+  {
+    "listing": "/paginas/turmas/jovens/index.html",
     "items": [
-      "/paginas/turmas/adultos/posts/2025-01-12-somos-cristaos/index.html",
-      "/paginas/turmas/adultos/posts/2025-01-05-quando-as-heresias-ameacam-a-unidade-da-igreja/index.html"
+      "/paginas/turmas/jovens/posts/2025-01-05-um-convite-a-autenticidade/index.html"
     ]
   }
 ]

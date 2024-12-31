@@ -5,10 +5,10 @@ format:
   revealjs:
     incremental: true
     auto-stretch: false
-  pdf:  
-    toc: false
-    number-sections: false
-    colorlinks: true
+  # pdf:  
+    # toc: false
+    # number-sections: false
+    # colorlinks: true
 ---
 
 ## Objetivos
@@ -29,28 +29,29 @@ format:
 ## Exemplos de vícios
 
 > Quais os nomes desses vícios?
-> 
-> ![](img/img1.png){width=70%}
+>
+> ![](img/img1.png){width="70%"}
 
 ## Exemplos de vícios
 
 > Resposta:
-> 
-> ![](img/img2.png){width=70%}
+>
+> ![](img/img2.png){width="70%"}
 
 ## 2. Os vícios no livro de Provérbios
 
 > Qual é a fonte de todos os 7 vícios capitais?
 >
-> - Resposta:
->   - Orgulho
->     - O orgulho vem antes da destruição; o espírito altivo, antes da queda. (Provérbios 16.18)
+> -   Resposta:
+>     -   Orgulho
+>         -   O orgulho vem antes da destruição; o espírito altivo, antes da queda. (Provérbios 16.18)
 
 ## Vanglória: Imagem é tudo
 
-::: {.callout-note}
+::: callout-note
 ## Vanglória
-_substantivo feminino_
+
+*substantivo feminino*
 
 convencimento, nem sempre fundamentado na realidade, dos próprios méritos, qualidades ou talentos.
 :::
@@ -58,32 +59,36 @@ convencimento, nem sempre fundamentado na realidade, dos próprios méritos, qua
 ## Vanglória em Provérbios
 
 > "Que outros façam elogios a você, não a sua própria boca; outras pessoas, não os seus próprios lábios." (Provérbios 27:2)
-  
-      - Esse versículo condena a autopromoção, uma característica da vanglória.
+
+```         
+  - Esse versículo condena a autopromoção, uma característica da vanglória.
+```
 
 > "Comer mel demais não é bom, nem é honroso buscar a própria honra." (Provérbios 25:27)
-  
-      - Aqui, a busca exagerada por reconhecimento é vista como algo prejudicial
+
+```         
+  - Aqui, a busca exagerada por reconhecimento é vista como algo prejudicial
+```
 
 ## Vícios relacionados à vanglória
 
-- **Ostentação:** Exibir bens materiais, habilidades ou conquistas com o objetivo de impressionar os outros
-- **Hipocrisia:** Fingir ser virtuoso ou melhor do que realmente é para ganhar admiração alheia
-- **Ambição desordenada:** Busca incessante por posições de destaque ou poder para receber elogios e glória pessoal.
-- **Mentira e exagero:** Inventar histórias ou aumentar feitos para atrair a atenção e a aprovação dos outros.
-- Etc...
+-   **Ostentação:** Exibir bens materiais, habilidades ou conquistas com o objetivo de impressionar os outros
+-   **Hipocrisia:** Fingir ser virtuoso ou melhor do que realmente é para ganhar admiração alheia
+-   **Ambição desordenada:** Busca incessante por posições de destaque ou poder para receber elogios e glória pessoal.
+-   **Mentira e exagero:** Inventar histórias ou aumentar feitos para atrair a atenção e a aprovação dos outros.
+-   Etc...
 
 ## Inveja: Sentindo desgosto quando os outros estão bem
 
-::: {.callout-note}
+::: callout-note
 ## inveja
-_substantivo feminino_
 
-::: {.nonincremental}
-1. desgosto provocado pela felicidade ou prosperidade alheia.
-2. desejo irrefreável de possuir ou gozar o que é de outrem.
+*substantivo feminino*
+
+::: nonincremental
+1.  desgosto provocado pela felicidade ou prosperidade alheia.
+2.  desejo irrefreável de possuir ou gozar o que é de outrem.
 :::
-
 :::
 
 ## Inveja em Provérbios
@@ -95,138 +100,150 @@ _substantivo feminino_
 > "Não tenha inveja dos malvados nem deseje a companhia deles, pois violência é o que planejam no coração; seus lábios só falam em criar confusão." (Provérbios 24.1-2)
 
 ## Vícios relacionados à inveja
-- **Calúnia**: difamação para diminuir outra pessoa.
-- **Ciúmes excessivos**: medo de perder algo para outro.
-- **Descontentamento**: não se alegrar com o que tem.
-- **Competitividade destrutiva** prejudicar outros para "ganhar".
+
+-   **Calúnia**: difamação para diminuir outra pessoa.
+-   **Ciúmes excessivos**: medo de perder algo para outro.
+-   **Descontentamento**: não se alegrar com o que tem.
+-   **Competitividade destrutiva** prejudicar outros para "ganhar".
 
 ## Preguiça: resistência às demandas do amor
 
-::: {.callout-note}
+::: callout-note
 ## preguiça
-_substantivo feminino_
 
-:::{.nonincremental}
-1. aversão ao trabalho; ócio, vadiagem.
-2. estado de prostração e moleza, de causa orgânica ou psíquica.
+*substantivo feminino*
+
+::: nonincremental
+1.  aversão ao trabalho; ócio, vadiagem.
+2.  estado de prostração e moleza, de causa orgânica ou psíquica.
 :::
 :::
 
 ## A Preguiça em Provérbios
 
-::: {.callout}
+::: callout
 Vá à formiga, ó preguiçoso! Observe os caminhos dela e seja sábio! (Pv 6.6)
 :::
 
-::: {.callout}
+::: callout
 O preguiçoso diz: "Lá está um leão no caminho, um leão feroz rugindo nas ruas!"". Como a porta gira nas dobradiças, assim o preguiçoso se revira na cama. O preguiçoso mete a mão no prato, mas acha difícil demais levá‑la à boca. O preguiçoso considera‑se mais sábio do que sete homens que respondem com bom senso. (Pv 26.13-16)
 :::
 
-::: {.callout}
+::: callout
 A preguiça leva ao sono profundo, e o ocioso passa fome. (Pv 19.15)
 :::
 
 ## Vícios relacionados à preguiça
 
-- **Procrastinação**: adiar o que é necessário fazer.
-- **Negligência**: deveres e responsabilidades abandonados.
-- **Apatia espiritual**: indiferença em relação às coisas de Deus.
-- **Parasitismo**: viver às custas dos outros sem esforço próprio.
+-   **Procrastinação**: adiar o que é necessário fazer.
+-   **Negligência**: deveres e responsabilidades abandonados.
+-   **Apatia espiritual**: indiferença em relação às coisas de Deus.
+-   **Parasitismo**: viver às custas dos outros sem esforço próprio.
 
 ## Avareza: Posse e domínio
 
-::: {.callout-warning}
+::: callout-warning
 ## Provérbios 23.4-5
+
 "Não esgote as suas forças tentando ficar rico; pare de pensar nisso! As riquezas desaparecem assim que você as contempla; criam asas e voam como águias pelo céu."
 :::
 
 ### Vícios derivados da avareza:
-- **Corrupção:** uso desonesto de poder para ganho pessoal.
-- **Roubo:** apropriar-se de bens alheios.
-- **Usura:** cobrança excessiva de juros ou exploração financeira.
-- **Negligência à caridade:** recusa em ajudar os necessitados.
 
+-   **Corrupção:** uso desonesto de poder para ganho pessoal.
+-   **Roubo:** apropriar-se de bens alheios.
+-   **Usura:** cobrança excessiva de juros ou exploração financeira.
+-   **Negligência à caridade:** recusa em ajudar os necessitados.
 
 ## Ira: Emoção santa ou paixão infernal?
 
-::: {.callout-caution}
+::: callout-caution
 ## Provérbios 15.1
+
 "A resposta calma desvia a fúria, mas a palavra ríspida desperta a ira."
 :::
 
 ### Vícios derivados da ira
-- **Violência física:** agressões e brigas.
-- **Ódio:** repulsa intensa e destrutiva.
-- **Rancor:** guardar ressentimento por longo tempo.
-- **Vingança:** desejo de retribuir mal com mal.
+
+-   **Violência física:** agressões e brigas.
+-   **Ódio:** repulsa intensa e destrutiva.
+-   **Rancor:** guardar ressentimento por longo tempo.
+-   **Vingança:** desejo de retribuir mal com mal.
 
 ## Gula: Enchendo a barriga e deixando o coração faminto
 
-::: {.callout-warning}
+::: callout-warning
 ## Provérbios 23.20-21
+
 "Não ande com os que se embriagam com vinho nem com os que se empanturram de carne. Pois os bêbados e os glutões se empobrecerãoe a sonolência os vestirá de trapos."
 :::
 
 ### Vícios derivados da Gula
-- **Comportamentos autodestrutivos:** transtornos alimentares como bulimia ou compulsão.
-- **Desperdício:** excesso que leva à perda de recursos.
-- **Preguiça física:** sonolência ou falta de energia causada pelo excesso.
 
-## Luxúria: sexualidade reduzida{.smaller}
+-   **Comportamentos autodestrutivos:** transtornos alimentares como bulimia ou compulsão.
+-   **Desperdício:** excesso que leva à perda de recursos.
+-   **Preguiça física:** sonolência ou falta de energia causada pelo excesso.
 
-::: {.callout-important}
+## Luxúria: sexualidade reduzida {.smaller}
+
+::: callout-important
 ## Provérbios 6.25-26
+
 "Não cobice no coração a sua beleza nem se deixe seduzir pelos seus olhares, pois o preço de uma prostituta é um pedaço de pão, mas a adúltera sai à caça de uma vida preciosa."
 :::
 
 ### Vícios derivados da luxúria
-- **Adultério:** infidelidade no casamento.
-- **Fornicação:** relações sexuais fora do casamento.
-- **Pornografia:** uso de material obsceno.
-- **Prostituição:** venda do corpo ou exploração sexual.
+
+-   **Adultério:** infidelidade no casamento.
+-   **Fornicação:** relações sexuais fora do casamento.
+-   **Pornografia:** uso de material obsceno.
+-   **Prostituição:** venda do corpo ou exploração sexual.
 
 ## 3. As consequências dos vícios
 
-###  I. Os vícios corrompem
+### I. Os vícios corrompem
 
 -   Os vícios são hábitos corruptores e destrutivos. Eles minam tanto a nossa bondade de caráter quanto o nosso viver e agir bem
 -   Eles corroem nossa capacidade de ver as coisas com clareza, de apreciar as coisas como devemos, de amar e viver relacionamentos saudáveis com os outros e abster-nos de padrões de comportamento autodestrutivos.
--   
 
-## II. Vícios são uma imitação barata da felicidade{.smaller}
+## II. Vícios são uma imitação barata da felicidade {.smaller}
 
-- Vícios oferecem imitações sutis e enganosas da plenitude do bem humano, que muitas vezes chamamos simplesmente de felicidade.
-- A luxúria oferece prazer; a avareza promete autossuficiência; a inveja e a vanglória se oferecem para garantir nosso valor e aprovação; a preguiça acena com o conforto; a ira se apega ao controle; o orgulho valoriza o status, a superioridade e o poder.
-- Os vícios exercem um poder tão atraente porque oferecem uma ótima parodia, uma falsa imitação, da felicidade. Os bens que eles prometem nos parecem muito com a verdadeira perfeição humana.
+-   Vícios oferecem imitações sutis e enganosas da plenitude do bem humano, que muitas vezes chamamos simplesmente de felicidade.
+-   A luxúria oferece prazer; a avareza promete autossuficiência; a inveja e a vanglória se oferecem para garantir nosso valor e aprovação; a preguiça acena com o conforto; a ira se apega ao controle; o orgulho valoriza o status, a superioridade e o poder.
+-   Os vícios exercem um poder tão atraente porque oferecem uma ótima parodia, uma falsa imitação, da felicidade. Os bens que eles prometem nos parecem muito com a verdadeira perfeição humana.
 
 ## III. Os vícios afirmam nossa autossuficiência e negam nossa dependência de Deus
 
-- Eles oferecem um atalho fácil e uma receita para a satisfação criada por nós mesmos. De forma distorcida, nossa busca pelos vícios nos mostra a tentativa de alcançar bens como amor e amizade, provisão e segurança, reconhecimento e aprovação, conforto e prazer, status e valor, tudo por nós mesmos (e, frequentemente, tudo para nós mesmos).
+-   Eles oferecem um atalho fácil e uma receita para a satisfação criada por nós mesmos. De forma distorcida, nossa busca pelos vícios nos mostra a tentativa de alcançar bens como amor e amizade, provisão e segurança, reconhecimento e aprovação, conforto e prazer, status e valor, tudo por nós mesmos (e, frequentemente, tudo para nós mesmos).
 
 ## IV. Os vícios impedem nossa satisfação em Deus e deformam nosso caráter {.smaller}
 
-- Os vícios são expressões de nossa busca por coisas finitas e criadas no lugar da bondade de Deus, nosso Criador.
-- Fomos feitos para a união com um Deus infinitamente bom. Não é de se admirar que bens menores não sejam satisfatórios. Tal dinâmica explica por que os vícios, na maioria das vezes, nos levam ao desejo excessivo:
-  - Quando as coisas criadas deixam de nos satisfazer, continuamos retornando a elas, com mais intensidade, em busca de mais. Porém, uma coisa boa em excesso não é algo bom para nós.
-  - Quando coisas boas são buscadas de maneira errada, o pecado acontece. E quando o pecado se acumula, nosso caráter também se torna distorcido e deformado.
+-   Os vícios são expressões de nossa busca por coisas finitas e criadas no lugar da bondade de Deus, nosso Criador.
+-   Fomos feitos para a união com um Deus infinitamente bom. Não é de se admirar que bens menores não sejam satisfatórios. Tal dinâmica explica por que os vícios, na maioria das vezes, nos levam ao desejo excessivo:
+    -   Quando as coisas criadas deixam de nos satisfazer, continuamos retornando a elas, com mais intensidade, em busca de mais. Porém, uma coisa boa em excesso não é algo bom para nós.
+    -   Quando coisas boas são buscadas de maneira errada, o pecado acontece. E quando o pecado se acumula, nosso caráter também se torna distorcido e deformado.
 
-## 4. Como nos proteger dos vícios?{.smaller}
+## 4. Como nos proteger dos vícios? {.smaller}
 
-- Para vencer os vícios, é necessário cultivar virtudes
-- As virtudes indicam o fim, o objetivo, a linha de chegada; elas nos fornecem uma imagem da vida cristã em toda a sua plenitude
-- As virtudes são "excelências" de caráter, hábitos ou disposições de caráter que nos ajudam a viver bem como seres humanos excelentes
+-   Para vencer os vícios, é necessário cultivar virtudes
+
+-   As virtudes indicam o fim, o objetivo, a linha de chegada; elas nos fornecem uma imagem da vida cristã em toda a sua plenitude
+
+-   As virtudes são "excelências" de caráter, hábitos ou disposições de caráter que nos ajudam a viver bem como seres humanos excelentes
 
     > A virtude nos ajuda tanto a viver quanto a agir bem e a sermos boas pessoas (Aristóteles)
 
 ## Disciplina para mudar hábitos é o caminho
-:::{.nonincremental}
+
+::: nonincremental
 -   Os vícios são hábitos ou traços de caráter
 -   Por meio de nossas ações repetidas ao longo do tempo, podemos cultivar ou destruir hábitos
 -   Temos uma espécie de controle voluntário indireto sobre tais hábitos
 :::
 
-::: {.callout-tip}
+::: callout-tip
 ## Aristóteles afirma:
+
 Somos em última análise os responsáveis pelo nosso caráter
 :::
 
@@ -236,36 +253,40 @@ Somos em última análise os responsáveis pelo nosso caráter
 
 ## Dependemos da graça de Deus. O seu poder nos capacita!
 
-::: {.callout-tip}
+::: callout-tip
 ## 2 Pedro 1:3-8
+
 "O seu divino poder nos deu tudo de que necessitamos para a vida e a piedade, por meio do conhecimento daquele que nos chamou para a sua própria glória e virtude. Dessa maneira, ele nos deu as suas grandiosas e preciosas promessas, para que por elas vocês se tornassem participantes da natureza divina, tendo escapado da corrupção que há no mundo, causada pelos maus desejos. Por essa razão, empenhem‑se para acrescentar à sua fé a virtude; à virtude, o conhecimento; ao conhecimento, o domínio próprio; ao domínio próprio, a perseverança; à perseverança, a piedade; à piedade, a fraternidade; à fraternidade, o amor. Porque, se essas qualidades existirem e estiverem crescendo na vida de vocês, elas impedirão que sejam ineficazes e improdutivos no conhecimento do nosso Senhor Jesus Cristo."
 :::
 
-## É necessário morrer para o velho eu e ressuscitar para uma nova vida em Cristo{.smaller}
+## É necessário morrer para o velho eu e ressuscitar para uma nova vida em Cristo {.smaller}
 
-::: {.callout-tip}
+::: callout-tip
 ## Efésios 4:22-24
+
 Quanto à antiga maneira de viver, dispam‑se do velho homem, que se corrompe por desejos enganosos, para serem renovados no modo de pensar e se vestirem do novo homem, criado para ser semelhante a Deus em justiça e santidade provenientes da verdade.
 :::
 
-::: {.callout-tip}
+::: callout-tip
 ## Colossenses 3:5-14
+
 Portanto, façam morrer tudo o que pertence à natureza terrena de vocês: imoralidade sexual, impureza, paixão, desejos maus e a cobiça, que é idolatria. É por causa dessas coisas que vem a ira de Deus sobre os que vivem na desobediência, as quais vocês praticaram no passado, quando costumavam viver nelas. Agora, porém, abandonem todas estas coisas: ira, indignação, maldade, calúnia e linguagem indecente no falar. Não mintam uns aos outros, uma vez que vocês já se despiram do velho homem com as suas práticas e se vestiram do novo, o qual está sendo renovado em conhecimento à imagem do seu Criador. Nesta nova vida, não há diferença entre grego e judeu, circunciso e incircunciso, bárbaro e cita, escravo e livre, mas Cristo é tudo e está em todos. Portanto, como escolhidos de Deus, santos e amados, vistam‑se de profunda compaixão, bondade, humildade, mansidão e paciência. Suportem uns aos outros e perdoem as queixas que tiverem uns contra os outros. Perdoem como o Senhor os perdoou. Sobre todas essas coisas, porém, vistam‑se do amor, que é o elo perfeito.
 :::
 
-## Devemos abandonar nosso antigo caráter e não nos conformarmos aos padrões deste mundo{.smaller}
+## Devemos abandonar nosso antigo caráter e não nos conformarmos aos padrões deste mundo {.smaller}
 
-::: {.callout-tip}
+::: callout-tip
 ## Romanos 12:1-2
+
 "Portanto, irmãos, peço, pelas misericórdias de Deus, que ofereçam o corpo de vocês como sacrifício vivo, santo e agradável a Deus: este é o culto racional de vocês. Não se amoldem ao padrão deste mundo, mas transformem‑se pela renovação da sua mente, para que vocês experimentem a boa, agradável e perfeita vontade de Deus."
 :::
 
-- O projeto moral de um cristão é morrer para o velho eu e ressuscitar para uma nova vida em Cristo. Morrer e ressuscitar - o ritmo de uma vida de discipulado - nomeia o processo pelo qual nos acostumamos a uma vida cada vez mais semelhante à de Cristo.
+-   O projeto moral de um cristão é morrer para o velho eu e ressuscitar para uma nova vida em Cristo. Morrer e ressuscitar - o ritmo de uma vida de discipulado - nomeia o processo pelo qual nos acostumamos a uma vida cada vez mais semelhante à de Cristo.
 
 ## Conclusão
 
-- Os vícios são perigosos e podem se mostrar dominadores da natureza humana. É contra esse domínio que a Palavra de Deus nos alerta a respeito dos vícios e mostra com clareza que é possível e ao mesmo tempo é a vontade de Deus que não sejamos dominados por eles.
-- O autodomínio aparece como uma virtude cristã indispensável para sairmos vitoriosos na luta contra os vícios.
-- O que nos garante a nossa vitória é que estamos crucificados com Cristo, o Espírito Santo habita em nós e, por isso, podemos andar em novidade de vida.
+-   Os vícios são perigosos e podem se mostrar dominadores da natureza humana. É contra esse domínio que a Palavra de Deus nos alerta a respeito dos vícios e mostra com clareza que é possível e ao mesmo tempo é a vontade de Deus que não sejamos dominados por eles.
+-   O autodomínio aparece como uma virtude cristã indispensável para sairmos vitoriosos na luta contra os vícios.
+-   O que nos garante a nossa vitória é que estamos crucificados com Cristo, o Espírito Santo habita em nós e, por isso, podemos andar em novidade de vida.
 
 ## Obrigado pela atenção!

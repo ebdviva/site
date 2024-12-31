@@ -1,7 +1,7 @@
 ---
 title: Somos Cristãos
 subtitle: "Lição 2"
-status: atual
+status: futura
 data: 12/01/2025
 description: "O Cristianismo é uma religião de relacionamento pessoal com o Cristo ressuscitado e não um conjunto de regras e ritos."
 # image: img/t125.jpg
@@ -12,3 +12,140 @@ date: 2025-01-12
 date-format: DD/MM/YYYY
 lang: pt-br
 ---
+
+## Resumo da lição
+
+::: {style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;"}
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGa0Kxj1sI/suZKzwlKxA2xNG2_CO_l-w/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe>
+:::
+
+## Referências bíblicas
+
+### Leituras diárias
+
+::: callout
+## Mateus 9.16
+
+― Ninguém põe remendo de pano novo em roupa velha, pois o remendo forçará a roupa, tornando pior o rasgo.
+:::
+
+::: callout
+## Atos 11.26
+
+Então, me lembrei do que o Senhor tinha dito: "João batizou com água, mas vocês serão batizados com o Espírito Santo"
+:::
+
+::: callout
+## Atos 15.1,5
+
+Alguns homens desceram da Judeia a Antioquia e passaram a ensinar aos irmãos: ― Se vocês não forem circuncidados conforme o costume ensinado por Moisés, não poderão ser salvos.
+
+Então, levantaram‑se alguns do partido religioso dos fariseus que haviam crido e disseram: ― É necessário circuncidá‑los e exigir deles que obedeçam à lei de Moisés.
+:::
+
+::: callout
+## Romanos 3.28
+
+Concluímos, pois, que o homem é justificado pela fé, independentemente das obras da lei.
+:::
+
+::: callout
+## Gálatas 1.8-9
+
+8.  Contudo, ainda que nós ou um anjo dos céus anuncie um evangelho contrário ao que anunciamos a vocês, que seja amaldiçoado!
+9.  Como já dissemos, agora repito: se alguém anuncia a vocês um evangelho contrário àquele que já receberam, que seja amaldiçoado!
+:::
+
+::: callout
+## Filipenses 3.4-5
+
+Se alguém pensa que tem razões para confiar na carne, eu ainda mais: circuncidado no oitavo dia de vida, pertencente ao povo de Israel, à tribo de Benjamim, hebreu dos hebreus; quanto à lei, fariseu.
+:::
+
+### Leitura em classe
+
+::: callout
+## Gálatas 2.1-9,14
+
+Catorze anos depois, subi novamente a Jerusalém, dessa vez com Barnabé, levando também Tito comigo. Fui para lá por causa de uma revelação e expus diante deles o evangelho que prego entre os gentios, fazendo‑o, porém, em particular aos que eram mais influentes, para não correr ou ter corrido inutilmente. Contudo, nem mesmo Tito, que estava comigo, foi obrigado a circuncidar‑se, apesar de ser grego. Essa questão surgiu porque alguns falsos irmãos infiltraram‑se no nosso meio para espiar a liberdade que temos em Cristo Jesus com o fim de nos reduzir à escravidão. Não nos submetemos a eles nem por um instante, para que a verdade do evangelho permanecesse com vocês. Quanto aos que eram considerados influentes — o que eram, então, não faz diferença para mim; Deus não mostra favoritismo —, tais homens não me acrescentaram nada. Pelo contrário, reconheceram que a mim havia sido confiada a pregação do evangelho aos incircuncisos, e a Pedro, aos circuncisos. Pois Deus, que operou por meio de Pedro como apóstolo aos circuncisos, também operou por meu intermédio para com os gentios. Reconhecendo a graça que me foi dada, Tiago, Cefas e João, considerados colunas, estenderam a mão direita a mim e a Barnabé em sinal de comunhão. Eles concordaram em que nos dirigíssemos aos gentios, e eles, aos circuncisos. Quando vi que não estavam andando de acordo com a verdade do evangelho, disse a Cefas, diante de todos: "Você é judeu, mas vive como gentio, não como judeu. Portanto, como pode obrigar os gentios a viverem como judeus?"
+:::
+
+### Leituras complementares
+
+::: callout
+## Atos 11.27-30
+
+27. Naqueles dias, alguns profetas desceram de Jerusalém a Antioquia.
+28. Um deles, chamado Ágabo, levantou‑se e, pelo Espírito, predisse que uma grande fome sobreviria a todo o mundo romano, o que aconteceu durante o reinado de Cláudio.
+29. Os discípulos, cada um segundo as suas possibilidades, decidiram providenciar ajuda para os irmãos que viviam na Judeia.
+30. Assim o fizeram, enviando ofertas aos presbíteros pelas mãos de Barnabé e Saulo.
+:::
+
+::: callout
+## Atos 4.36
+
+José, um levita de Chipre a quem os apóstolos deram o nome de Barnabé, que significa "encorajador"
+:::
+
+::: callout
+## Atos 16.3
+
+Paulo, querendo levá‑lo na viagem, circuncidou‑o por causa dos judeus que viviam naquela região, pois todos sabiam que o pai dele era grego.
+:::
+
+::: callout
+## Gálatas 1.6-7
+
+Admiro‑me de que vocês estejam abandonando tão rapidamente aquele que os chamou pela graça de Cristo, para seguirem outro evangelho que, na realidade, não é o evangelho. O que ocorre é que algumas pessoas os estão perturbando, querendo perverter o evangelho de Cristo.
+:::
+
+::: callout
+## Atos 15.24
+
+Soubemos que alguns saíram do nosso meio, sem a nossa autorização, e os perturbaram, transtornando a mente de vocês com o que disseram.
+:::
+
+::: callout
+## Atos 15.1
+
+Alguns homens desceram da Judeia a Antioquia e passaram a ensinar aos irmãos: ― Se vocês não forem circuncidados conforme o costume ensinado por Moisés, não poderão ser salvos.
+:::
+
+::: callout
+## 1 Timóteo 2.7
+
+Para isso fui designado mensageiro e apóstolo. Digo a verdade, não minto: Deus me fez mestre da fé e da verdade aos gentios.
+:::
+
+::: callout
+## 2 Timóteo 1.11
+
+de acordo com o evangelho da glória do Deus bendito, o qual me foi confiado.
+:::
+
+::: callout
+## Romanos 11.13
+
+Estou falando a vocês, gentios. Visto que sou apóstolo para os gentios, honro o meu ministério,
+:::
+
+::: callout
+## Gálatas 1.8-9
+
+Contudo, ainda que nós ou um anjo dos céus anuncie um evangelho contrário ao que anunciamos a vocês, que seja amaldiçoado! Como já dissemos, agora repito: se alguém anuncia a vocês um evangelho contrário àquele que já receberam, que seja amaldiçoado!
+:::
+
+::: callout
+## 1 Coríntios 7.18
+
+Foi alguém chamado quando já era circuncidado? Não desfaça a sua circuncisão. Foi alguém chamado sendo incircunciso? Não se circuncide.
+:::
+
+::: callout
+## 1 Coríntios 7.20
+
+Cada um deve permanecer na condição em que foi chamado por Deus.
+:::

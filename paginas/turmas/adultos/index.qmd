@@ -10,7 +10,9 @@ listing:
         "posts/*/index.qmd"
     fields: [title, categories, date, author, description]
     exclude:
-        status: futura
+        status: 
+          - futura
+          - arquivada
     filter-ui: false
     sort-ui: false
     sort: "date desc"

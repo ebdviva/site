@@ -1,7 +1,7 @@
 ---
 title: Honrando o Criador, cuidando da criação
 subtitle: "Lição 11"
-status: próxima
+status: arquivada
 description: "Eu, com o meu grande poder e com a minha força, criei o mundo, os seres humanos e todos os animais que vivem na terra; e posso dá-los a quem eu quiser."
 # image: img/t125.jpg
 categories: 
