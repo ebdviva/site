@@ -8,7 +8,7 @@ website:
   favicon: logo-ebd-viva.png
   open-graph: true
   twitter-card: false
-  site-url: "https://ebdviva.github.io/site/"
+  site-url: "https://ebdviva.github.io/site"
   page-navigation: true
   
   navbar:
@@ -52,6 +52,8 @@ website:
               href: paginas/vidas/integracao-estrategica.qmd
             - text: "Discípulos em ação"
               href: paginas/vidas/discipulos-em-acao.qmd
+            - text: "Aperfeiçoamento contínuo"
+              href: paginas/vidas/aperfeicoamento-continuo.qmd
 
     - id: turmas
       title: "Turmas"
@@ -122,3 +124,6 @@ profile:
 #            s.parentNode.insertBefore(g, s);
 #        }(document, 'script'));
 #        </script>
+
+
+
