@@ -50,10 +50,12 @@ website:
               href: paginas/vidas/visao-de-crescimento.qmd
             - text: "Integração estratégica"
               href: paginas/vidas/integracao-estrategica.qmd
-            - text: "Discípulos em ação"
-              href: paginas/vidas/discipulos-em-acao.qmd
-            - text: "Aperfeiçoamento contínuo"
-              href: paginas/vidas/aperfeicoamento-continuo.qmd
+            - text: "Discipulado contínuo"
+              href: paginas/vidas/discipulado-continuo.qmd
+            - text: "Aperfeiçoamento constante"
+              href: paginas/vidas/aperfeicoamento-constante.qmd
+            - text: "Serviço cristão"
+              href: paginas/vidas/servico-cristao.qmd
 
     - id: turmas
       title: "Turmas"
