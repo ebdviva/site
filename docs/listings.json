@@ -1,24 +1,28 @@
 [
   {
+    "listing": "/paginas/turmas/jovens/index.html",
+    "items": [
+      "/paginas/turmas/jovens/posts/2025-01-12-autenticidade-em-meio-as-provas-e-tentacoes/index.html",
+      "/paginas/turmas/jovens/posts/2025-01-05-um-convite-a-autenticidade/index.html"
+    ]
+  },
+  {
     "listing": "/paginas/turmas/adultos/index.html",
     "items": [
+      "/paginas/turmas/adultos/posts/2025-01-12-somos-cristaos/index.html",
       "/paginas/turmas/adultos/posts/2025-01-05-quando-as-heresias-ameacam-a-unidade-da-igreja/index.html"
+    ]
+  },
+  {
+    "listing": "/paginas/turmas/adolescentes/index.html",
+    "items": [
+      "/paginas/turmas/adolescentes/posts/2025-01-05-criacionismo-x-evolucionismo/index.html"
     ]
   },
   {
     "listing": "/paginas/devocional/index.html",
     "items": [
       "/paginas/devocional/2024-12.html"
-    ]
-  },
-  {
-    "listing": "/paginas/turmas/adolescentes/index.html",
-    "items": []
-  },
-  {
-    "listing": "/paginas/turmas/jovens/index.html",
-    "items": [
-      "/paginas/turmas/jovens/posts/2025-01-05-um-convite-a-autenticidade/index.html"
     ]
   }
 ]

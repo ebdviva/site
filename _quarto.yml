@@ -21,7 +21,13 @@ website:
       - text: EBD Viva
         href: index.qmd
       - text: Turmas
-        href: paginas/turmas/index.qmd
+        menu: 
+          - text: "Adolescentes"
+            href: paginas/turmas/adolescentes/index.qmd
+          - text: "Jovens"
+            href: paginas/turmas/jovens/index.qmd
+          - text: "Adultos"
+            href: paginas/turmas/adultos/index.qmd
       - text: "Ajuda"
         menu:
           # - text: "Perguntas frequentes"
@@ -63,17 +69,15 @@ website:
       collapse-level: 2
       align: left
       contents:
-        - text: "Materiais"
+        - text: "Turmas"
           href: paginas/turmas/index.qmd
           contents:
-            - text: "Adultos"
-              href: paginas/turmas/adultos/index.qmd
+            - text: "Adolescentes"
+              href: paginas/turmas/adolescentes/index.qmd
             - text: "Jovens"
               href: paginas/turmas/jovens/index.qmd
-            # - text: "Adolescentes"
-              # href: paginas/turmas/adolescentes/index.qmd
-            # - text: "Crianças"
-              # href: paginas/turmas/criancas/index.qmd
+            - text: "Adultos"
+              href: paginas/turmas/adultos/index.qmd
 
     # - id: faq
       # title: "Perguntas Frequentes"
